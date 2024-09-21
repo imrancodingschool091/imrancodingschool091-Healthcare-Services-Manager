@@ -1,0 +1,36 @@
+.update-service-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #fafafa;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .update-service-form h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .update-service-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .update-service-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .update-service-form button:hover {
+    background-color: #0056b3;
+  }
+  
