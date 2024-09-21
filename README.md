@@ -15,5 +15,5 @@ A simple React app to manage a list of healthcare services. Users can add, updat
 3. Run `npm run dev` to start the app.
 
 ## Live Demo:
-
+https://imrancodingschool091-healthcare-services-manager.vercel.app/
 
